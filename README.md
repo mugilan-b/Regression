@@ -10,9 +10,12 @@ This Python (Jupyter NB 6) project showcases linear and logistic regression perf
 ### Linear Regression: <br>
 A line is specified. Data points are generated along the line at regular X intervals. A random y-offset is generated (normal distrib) and is added to all points.
 
+![Lin_Reg_Plot](/LinReg.png?raw=true "Linear Regression sample run results")
+
 ### Logistic regression: <br>
 Data points are generated along X axis at regular intervals. Two parameters are specified. This represents a sigmoid function (of x). This sigmoid function represents the probability of each x Data point having y value 1. If it is not 1 then it becomes 0.
 
+![Log_Reg_Plot](/LogReg.png?raw=true "Logistic Regression sample run results")
 
 ## To-do: <br>
 - Better visualization
